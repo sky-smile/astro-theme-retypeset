@@ -1,23 +1,9 @@
 ---
 title: LxRunOffline管理WSL
-cover: \wsl007.png
-indexing: true
-toc: 是否顯示toc （除非特定文章設置，可以不寫）
-toc_number: 是否顯示toc數字 （除非特定文章設置，可以不寫）
-copyright: 是否顯示版權 （除非特定文章設置，可以不寫）
-comments: true
-tags:
-  - Windows
-  - WSL
-categories:
-  - WSL
-abbrlink: c741
-date: 2019-12-09 18:08:46
-top:
-keywords:
-description:
-password: ""
-theme: xray
+published: 2024-12-19
+tags: ["Windows","WSL"]
+lang: zh
+abbrlink: lxrunoffline
 ---
 
 **LxRunOffline**是用于管理Windows Windows子系统（WSL）的功能齐全的实用程序。

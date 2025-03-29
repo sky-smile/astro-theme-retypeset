@@ -1,22 +1,9 @@
 ---
 title: 常用软件备份
-cover: \01.jpg
-indexing: true
-toc: true
-toc_number: true
-copyright: 是否顯示版權 （除非特定文章設置，可以不寫）
-comments: true
-tags:
-  - 软件
-categories:
-  - other
-abbrlink: 33001
-date: 2019-12-26 16:05:25
-top:
-keywords:
-description:
-password: ""
-theme: xray
+published: 2024-12-19
+tags: ["软件"]
+lang: zh
+abbrlink: backupsoftware
 ---
 
 # 提升效率的常用软件备份

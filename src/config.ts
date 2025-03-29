@@ -164,7 +164,7 @@ export const themeConfig: ThemeConfig = {
     // comment server url
     commentURL: 'https://retypeset-comment.radishzz.cc',
     // image hosting url
-    imageHostURL: 'https://image.radishzz.cc',
+    imageHostURL: 'https://s2.loli.net',
     // custom google analytics js
     // for users who route analytics javascript to a customized domain
     // See https://gist.github.com/xiaopc/0602f06ca465d76bd9efd3dda9393738
